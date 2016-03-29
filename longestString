@@ -16,5 +16,5 @@ function longest(a, b) {
       final.push(newStr[i])
     }
   }
-  return final.sort();
+  return final.sort().join();
 }
