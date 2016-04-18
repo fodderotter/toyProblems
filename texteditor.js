@@ -10,3 +10,7 @@
 
 // insertAtIndexes("James Jane", " Likes",[5])//=="James Likes Jane"
 // insertAtIndexes("'I' write a wi' said Phi","ll", [3,14,24]) // == "'I'll write a will' said Phill"
+
+function insertAtIndexes(phrase, word, arr){
+	
+}
